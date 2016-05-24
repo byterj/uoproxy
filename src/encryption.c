@@ -86,6 +86,7 @@ static const struct login_key login_keys[] = {
     { "6.0.4", 0x2FF385BD, 0xA2ED127F },
     { "6.0.3", 0x2FBBB7CD, 0xA2C95E7F },
     { "6.0.2", 0x2F63ADDD, 0xA2A5227F },
+    { "6.0.1.7", 0x2F2BA7ED, 0xA2817E7F },
     { "6.0.1", 0x2F2BA7ED, 0xA2817E7F },
     { "6.0.0", 0x2f13a5fd, 0xa29d527f },
     { "5.0.9", 0x2F6B076D, 0xA2A3BE7F },
